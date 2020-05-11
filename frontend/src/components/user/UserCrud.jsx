@@ -1,10 +1,10 @@
-import React from 'react'
-import Main from '../../template/Main'
+import React, { Component } from 'react'
+import Main from '../template/Main'
 
 const headerProps = {
-  icon: "users",
-  title: "Usuários",
-  subtitle: "Cadastro de Usuários: C.R.U.D"
+  icon: 'users',
+  title: 'Usuários',
+  subtitle: 'Cadastro de Usuários: C.R.U.D'
 }
 
 export default class UserCrud extends Component {
