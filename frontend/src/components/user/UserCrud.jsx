@@ -8,7 +8,7 @@ const headerProps = {
   subtitle: 'Cadastro de Usuários: C.R.U.D'
 }
 
-const baseUrl = 'http://localhost:3004/users'
+const baseUrl = 'http://localhost:3000/users'
 const initialState = {
   user: {name: '', email: ''},
   list: []
