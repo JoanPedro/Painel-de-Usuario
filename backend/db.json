@@ -1,20 +1,9 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Joan Pedro",
-      "email": "jpedro@email.com"
-    },
-    {
-      "id": 2,
-      "name": "Carlos Barcelos",
-      "email": "cbarcelos@email.com"
-    },
-    {},
-    {
-      "name": "Raiana Soveral",
-      "email": "rayanama@hotmail.com",
-      "id": 3
+      "name": "Carla Souza",
+      "email": "carla@souza.com",
+      "id": 2
     }
   ]
 }
