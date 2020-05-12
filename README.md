@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Grid List w/ Filter" title="#Filter" src="" width="250px" />
+    Controle de Usuários - React
 </h1>
 
 <h4 align="center">
